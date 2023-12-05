@@ -1,0 +1,7 @@
+:root{
+    --pretotransparente: #615d5d7a;
+}
+
+.formulariocadastro{
+    background-color: var(--pretotransparente);
+}
